@@ -1,0 +1,229 @@
+aid: schrodinger
+name: Schrödinger
+description: >-
+  Schrödinger is a New York-headquartered (NASDAQ: SDGR) computational science
+  company that develops a physics-based and AI-driven molecular simulation
+  platform used across drug discovery and materials science. Its flagship
+  desktop modeling environment is Maestro (MS Maestro for materials science),
+  which integrates a deep stack of computational tools — Glide (docking),
+  FEP+ (free energy perturbation), Desmond (molecular dynamics), Jaguar
+  (quantum chemistry), Prime (protein structure prediction), BioLuminate
+  (biologics), LigPrep, QikProp, SiteMap, and WaterMap — together with the
+  Schrödinger-maintained PyMOL visualization system. LiveDesign is the
+  cloud-native enterprise design lab where chemists, biologists, and program
+  teams collaborate on molecules, run computational workflows, and integrate
+  experimental data; it exposes a snap-in API framework for connecting
+  in-house and third-party tooling. The Schrödinger Python API (current
+  release 2026-1) is the primary developer surface, providing programmatic
+  access to molecular structures, Maestro automation, jobcontrol, Glide,
+  FEP+, Desmond, Jaguar, MacroModel, Prime, BioLuminate, and LiveDesign
+  integration (login, export, dataset and column management). Schrödinger
+  also ships KNIME extensions, command-line drivers for every computational
+  product, and maintains a meaningful open-source footprint on GitHub —
+  including PyMOL, maeparser, coordgenlibs, sketcher, gpusimilarity, csmiles,
+  and the fixed-data-table-2 React component. The business has two segments —
+  software licensing to global pharma, biotech, and materials companies, and
+  a co-developed and proprietary drug discovery pipeline. There is no public
+  developer signup or self-serve REST API; access to the platform, Python
+  API, and LiveDesign is gated through commercial licensing and the
+  my.schrodinger.com customer portal.
+tags:
+  - Drug Discovery
+  - Computational Chemistry
+  - Molecular Simulation
+  - Physics-Based Modeling
+  - Free Energy Perturbation
+  - Molecular Dynamics
+  - Quantum Chemistry
+  - Materials Science
+  - Biologics
+  - Cheminformatics
+  - AI for Science
+  - Life Sciences
+  - Pharmaceuticals
+  - Maestro
+  - LiveDesign
+  - PyMOL
+  - Python API
+  - KNIME
+  - Enterprise Software
+  - Public Company
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/schrodinger/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.schrodinger.com
+  - type: Portal
+    url: https://my.schrodinger.com
+  - type: Documentation
+    name: Schrödinger Learn (Documentation Hub)
+    url: https://learn.schrodinger.com
+  - type: Documentation
+    name: Python API Overview
+    url: https://www.schrodinger.com/python-api/
+  - type: Documentation
+    name: Python API 2026-1 Reference
+    url: https://learn.schrodinger.com/public/python_api/2026-1/intro.html
+  - type: Documentation
+    name: Python API 2026-1 Module Index
+    url: https://learn.schrodinger.com/public/python_api/2026-1/api/schrodinger.html
+  - type: Documentation
+    name: Platform Products
+    url: https://www.schrodinger.com/platform/products/
+  - type: Product
+    name: Maestro
+    url: https://www.schrodinger.com/platform/products/maestro/
+  - type: Product
+    name: LiveDesign
+    url: https://www.schrodinger.com/platform/products/livedesign/
+  - type: Product
+    name: Glide
+    url: https://www.schrodinger.com/platform/products/glide/
+  - type: Product
+    name: FEP+
+    url: https://www.schrodinger.com/platform/products/fep/
+  - type: Product
+    name: Desmond
+    url: https://www.schrodinger.com/platform/products/desmond/
+  - type: Product
+    name: Jaguar
+    url: https://www.schrodinger.com/platform/products/jaguar/
+  - type: Product
+    name: BioLuminate
+    url: https://www.schrodinger.com/platform/products/bioluminate/
+  - type: Product
+    name: Prime
+    url: https://www.schrodinger.com/platform/products/prime/
+  - type: Product
+    name: LigPrep
+    url: https://www.schrodinger.com/platform/products/ligprep/
+  - type: Product
+    name: QikProp
+    url: https://www.schrodinger.com/platform/products/qikprop/
+  - type: Product
+    name: SiteMap
+    url: https://www.schrodinger.com/platform/products/sitemap/
+  - type: Product
+    name: WaterMap
+    url: https://www.schrodinger.com/platform/products/watermap/
+  - type: Product
+    name: PyMOL
+    url: https://www.schrodinger.com/platform/products/pymol/
+  - type: Product
+    name: MS Maestro (Materials Science)
+    url: https://www.schrodinger.com/platform/products/ms-maestro/
+  - type: Product
+    name: MS LiveDesign (Materials Science)
+    url: https://www.schrodinger.com/platform/products/ms-livedesign/
+  - type: Product
+    name: MS Surface
+    url: https://www.schrodinger.com/platform/products/ms-surface/
+  - type: Product
+    name: MS Morph
+    url: https://www.schrodinger.com/platform/products/ms-morph/
+  - type: Solution
+    name: Life Science
+    url: https://www.schrodinger.com/life-science/
+  - type: Solution
+    name: Materials Science
+    url: https://www.schrodinger.com/materials-science/
+  - type: Solution
+    name: Pipeline (Drug Discovery)
+    url: https://www.schrodinger.com/pipeline/
+  - type: Downloads
+    name: Release Downloads
+    url: https://www.schrodinger.com/release-download/
+  - type: Support
+    name: Customer Support Portal
+    url: https://my.schrodinger.com/support
+  - type: Support
+    name: Contact Support
+    url: https://my.schrodinger.com/support/contact
+  - type: KnownIssues
+    url: https://my.schrodinger.com/download/known-issues
+  - type: Training
+    name: Online Certification Courses
+    url: https://www.schrodinger.com/life-science/learn/education/courses/
+  - type: Training
+    name: Free Learning Resources
+    url: https://www.schrodinger.com/life-science/learn/education/free-learning-resources/
+  - type: Training
+    name: Teaching with Schrödinger
+    url: https://www.schrodinger.com/teaching-with-schrodinger/
+  - type: GitHubOrganization
+    url: https://github.com/schrodinger
+  - type: Tool
+    name: PyMOL (Open Source)
+    url: https://github.com/schrodinger/pymol-open-source
+  - type: Tool
+    name: maeparser (Maestro File Parser)
+    url: https://github.com/schrodinger/maeparser
+  - type: Tool
+    name: coordgenlibs (2D Coordinate Generation)
+    url: https://github.com/schrodinger/coordgenlibs
+  - type: Tool
+    name: Sketcher
+    url: https://github.com/schrodinger/sketcher
+  - type: Tool
+    name: gpusimilarity (CUDA Fingerprint Similarity)
+    url: https://github.com/schrodinger/gpusimilarity
+  - type: Tool
+    name: csmiles (Conformer SMILES)
+    url: https://github.com/schrodinger/csmiles
+  - type: Tool
+    name: fixed-data-table-2 (React)
+    url: https://github.com/schrodinger/fixed-data-table-2
+  - type: Integration
+    name: KNIME Extensions
+    url: https://www.knime.com/sites/default/files/17%20-%20J.Mozziconacci%20-%20Schroedinger.pdf
+  - type: Sales
+    url: https://www.schrodinger.com/sales-inquiry/
+  - type: Careers
+    url: https://www.schrodinger.com/company/careers/
+  - type: InvestorRelations
+    url: https://ir.schrodinger.com/
+  - type: PressReleases
+    url: https://ir.schrodinger.com/press-releases/
+  - type: Blog
+    name: News & Press
+    url: https://www.schrodinger.com/news/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/schrodinger
+  - type: Twitter
+    url: https://twitter.com/SchrodingerInc
+  - type: YouTube
+    url: https://www.youtube.com/@SchrodingerTV
+  - type: Features
+    data:
+      - Maestro — unified molecular modeling and visualization environment for life sciences and (as MS Maestro) materials science
+      - LiveDesign — cloud-native enterprise design lab with a snap-in API framework for integrating in-house and third-party tooling
+      - Physics-based drug discovery stack — Glide docking, FEP+ free energy perturbation, Desmond molecular dynamics, Jaguar quantum chemistry, Prime protein structure prediction, BioLuminate biologics
+      - Materials science stack — MS Maestro, MS Desmond, MS Jaguar, MS LiveDesign, MS Surface (catalysis), MS Morph (organic crystal habit)
+      - Schrödinger Python API (release 2026-1) — programmatic structure I/O, Maestro automation, jobcontrol, Glide / FEP+ / Desmond / Jaguar / Prime / MacroModel / BioLuminate drivers, and LiveDesign export / login / dataset modules
+      - Predictive toxicology initiative and AI-powered conversational interface inside Maestro (2026 strategic priorities)
+      - KNIME extensions exposing Schrödinger nodes for workflow authors
+      - PyMOL — Schrödinger-maintained open-source molecular visualization system used across the industry
+      - Open-source cheminformatics building blocks — maeparser, coordgenlibs, sketcher, gpusimilarity (CUDA), csmiles
+      - Online certification courses and a free learning portal for the platform
+      - Drug discovery pipeline — proprietary and partnered programs including SGR-1505 (MALT1 inhibitor) and collaborations such as Lilly TuneLab integration into LiveDesign
+      - Two-segment business — software licensing to global pharma, biotech, and materials companies plus a co-developed and proprietary drug discovery portfolio
+      - Public company listed on NASDAQ under the ticker SDGR
+      - Access is gated through commercial licensing and the my.schrodinger.com customer portal; no self-serve public REST API and no public developer signup
+    sources:
+      - https://www.schrodinger.com
+      - https://www.schrodinger.com/platform/products/
+      - https://www.schrodinger.com/python-api/
+      - https://learn.schrodinger.com/public/python_api/2026-1/intro.html
+      - https://ir.schrodinger.com/press-releases/
+      - https://github.com/schrodinger
+    updated: '2026-05-24'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
