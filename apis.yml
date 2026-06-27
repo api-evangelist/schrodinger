@@ -128,13 +128,13 @@ common:
   - type: Product
     name: MS Morph
     url: https://www.schrodinger.com/platform/products/ms-morph/
-  - type: Solution
+  - type: Solutions
     name: Life Science
     url: https://www.schrodinger.com/life-science/
-  - type: Solution
+  - type: Solutions
     name: Materials Science
     url: https://www.schrodinger.com/materials-science/
-  - type: Solution
+  - type: Solutions
     name: Pipeline (Drug Discovery)
     url: https://www.schrodinger.com/pipeline/
   - type: Downloads
@@ -159,28 +159,28 @@ common:
     url: https://www.schrodinger.com/teaching-with-schrodinger/
   - type: GitHubOrganization
     url: https://github.com/schrodinger
-  - type: Tool
+  - type: Tools
     name: PyMOL (Open Source)
     url: https://github.com/schrodinger/pymol-open-source
-  - type: Tool
+  - type: Tools
     name: maeparser (Maestro File Parser)
     url: https://github.com/schrodinger/maeparser
-  - type: Tool
+  - type: Tools
     name: coordgenlibs (2D Coordinate Generation)
     url: https://github.com/schrodinger/coordgenlibs
-  - type: Tool
+  - type: Tools
     name: Sketcher
     url: https://github.com/schrodinger/sketcher
-  - type: Tool
+  - type: Tools
     name: gpusimilarity (CUDA Fingerprint Similarity)
     url: https://github.com/schrodinger/gpusimilarity
-  - type: Tool
+  - type: Tools
     name: csmiles (Conformer SMILES)
     url: https://github.com/schrodinger/csmiles
-  - type: Tool
+  - type: Tools
     name: fixed-data-table-2 (React)
     url: https://github.com/schrodinger/fixed-data-table-2
-  - type: Integration
+  - type: Integrations
     name: KNIME Extensions
     url: https://www.knime.com/sites/default/files/17%20-%20J.Mozziconacci%20-%20Schroedinger.pdf
   - type: Sales
