@@ -1,0 +1,34 @@
+name: Schrödinger packages
+generated: '2026-10-20'
+method: searched
+source:
+  - https://pypi.org/pypi/pymol-open-source/json
+  - https://pypi.org/pypi/ldclient/json
+  - https://registry.npmjs.org/fixed-data-table-2
+  - https://github.com/schrodinger
+note: The Schrödinger Python API itself ships inside the licensed Schrödinger Suite, not on a public registry. The PyPI package named "schrodinger" belongs to an unrelated author (stormsherpa.com) and is excluded.
+packages:
+  - name: pymol-open-source
+    registry: pypi
+    url: https://pypi.org/project/pymol-open-source/
+    language: python
+    official: true
+    version: 3.2.0a0
+    published: '2025-09-09'
+    note: Project URLs point to github.com/schrodinger/pymol-open-source.
+  - name: ldclient
+    registry: pypi
+    url: https://pypi.org/project/ldclient/
+    language: python
+    official: true
+    version: 0.0.1
+    published: '2019-08-07'
+    note: LiveDesign Client; homepage github.com/schrodinger/livedesign-client. Single 2019 release.
+  - name: fixed-data-table-2
+    registry: npm
+    url: https://www.npmjs.com/package/fixed-data-table-2
+    language: javascript
+    official: true
+    version: 2.0.22
+    published: '2025-09-19'
+    note: React table component; repository github.com/schrodinger/fixed-data-table-2.

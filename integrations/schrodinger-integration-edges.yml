@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/schrodinger/integrations
+- https://zapier.com/apps/schr-dinger/integrations
+- https://n8n.io/integrations/schrodinger/
+- https://composio.dev/toolkits/schrodinger
+- https://monid.ai/tools/schrodinger
+checked:
+- https://composio.dev/toolkits/schrodinger
+- https://monid.ai/tools/schrodinger
+- https://n8n.io/integrations/schrodinger/
+- https://zapier.com/apps/schr-dinger/integrations
+- https://zapier.com/apps/schrodinger/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
